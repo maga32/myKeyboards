@@ -209,7 +209,7 @@ N키 옆에 붙을땐 B키로 인식하여 작동합니다.<br>
 <br>
 
 ---
-## Outro.
+## - Outro.
 <br>
 만들면서 다음에는 좀 더 잘 할 수 있을것 같은 부분들이나<br>
 개인적으로 아쉬운 부분들이 있긴 하지만<br>
@@ -218,4 +218,27 @@ N키 옆에 붙을땐 B키로 인식하여 작동합니다.<br>
 긴 글 읽어주셔서 감사합니다!<br>
 모두들 즐거운 키보드생활 하세요~<br>
 
-[>> 부품 비용 및 구매처 링크](https://maga32.notion.site/0a933070fed44892b9a7b1f24f581e40)
+---
+## - 부품 비용 및 구매처.
+<br>
+
+| 재료                                  | 비고                                                          | 구매처                                                                                                                                                                                                                     | 가격+베송비               |
+|:------------------------------------|:------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------|
+| 컨트롤러 x2                             | rp2040 zero                                                 | [링크](https://smartstore.naver.com/ds-parts/products/10062640388?nl-au=d806b03afbf6468786d500778476e21f&NaPm=ct%3Dlzp3uqoa%7Cci%3Dcheckout%7Ctr%3Dslsl_myc%7Ctrx%3Dnull%7Chk%3D5300116522bffdb957d8909901bc27481e61a405) | ￦7500                     |
+| 포고핀 1쌍 x2                           | 2pin with ear 2.80mm                                        | [링크](https://www.aliexpress.com/item/1005005610388997.html)                                                                                                                                                             | $3.54<br>= ￦4961          |
+| 카일 핫스왑 소켓 x89<br>(95개 구매)           |                                                             | [링크](https://m.smartstore.naver.com/around_life/products/10187682355?NaPm=ct%3Dlzm1wsxn%7Cci%3Dcheckout%7Ctr%3Dppc%7Ctrx%3Dnull%7Chk%3D7bb8ab5eb9b04603df5c66c7776d2880403fc1a9)                                        | ￦13300                    |
+| 다이오드 저항 x89<br>(100개 구매)            | 1n4148                                                      | [링크](https://m.smartstore.naver.com/devicemart_official/products/10160185892?NaPm=ct%3Dlzm2faf4%7Cci%3Dcheckout%7Ctr%3Dppc%7Ctrx%3Dnull%7Chk%3D77fbead79d4f175e4de1278aa60a967f2e0da681)                                | (1700 + 2700)<br>= ￦4400  |
+| 무보강용 스태빌<br>(2u 6개이상 필요)            | [스태빌설명영상](https://youtu.be/SpQk5nNOoAg?si=XRnJOCg1Ky_OKPV3) | [링크](https://smartstore.naver.com/pompokey/products/10449036837?NaPm=ct%3Dlzp6ran3%7Cci%3Dcheckout%7Ctr%3Dppc%7Ctrx%3Dnull%7Chk%3D0cf5feffb59b73b3c65792d70d1a03e7ca2539cd)                                             | (9900 + 3000)<br>= ￦12900 | 
+| 비접착 신슐레이터                           |                                                             | [링크](https://smartstore.naver.com/juncar83/products/10058107727?NaPm=ct%3Dm0srthi8%7Cci%3Dcheckout%7Ctr%3Dppc%7Ctrx%3Dnull%7Chk%3D292a7b2dd9b222916f351b8b070270158cca8160)                                             | (2700 + 4000)<br>= ￦6700  | 
+| 락카<br>무광백색 x2<br>무광투명 x1<br>특수노즐 x2 |                                                             | [링크](https://smartstore.naver.com/daehansafety/products/2031074519?NaPm=ct%3Dm0sswk8a%7Cci%3Dcheckout%7Ctr%3Dppc%7Ctrx%3Dnull%7Chk%3D50899fc7ca38e6e062bc5fce0f240ad5f7799030)                                          | (5220 + 3000)<br>= ￦8220  |
+| 범폰                                  | 다이소 유리미끄럼가드                                                 |                                                                                                                                                                                                                         | ￦1000                     |
+| 사각 네오디뮴자석 x6<br>(10개구매)             | 10 x 5 x 2t                                                 | 이하로는 디바이스마트 이용<br>[링크](https://www.devicemart.co.kr/)                                                                                                                                                                   | (2909 + 2700)<br>= ￦5609  |
+| trs단자 x2                            | PJ-325                                                      |                                                                                                                                                                                                                         | ￦400                      | 
+| AUX 스테레오 케이블                        | 3극 스프링                                                      |                                                                                                                                                                                                                         | ￦2600                     |
+| 래핑와이어(AWF30 200m)                   | 8색믹스                                                        |                                                                                                                                                                                                                         | ￦5200                     |
+| c타입 연장선 15cm                        |                                                             |                                                                                                                                                                                                                         | ￦3100                     |
+| m2 인서트 x29<br>(60개 구매)              |                                                             | 이하로는 손도리닷컴 이용<br>[링크](https://smartstore.naver.com/sondori)                                                                                                                                                             | (3000 + 2500) <br>= ￦5500 |
+| 십자볼트 M2 5mm x 15<br>(35개 구매)        |                                                             |                                                                                                                                                                                                                         | ￦1050                     |
+| 십자볼트 M2 12mm x 14<br>(35개 구매)       |                                                             |                                                                                                                                                                                                                         | ￦1050                     |
+|                                     |                                                             | 총계                                                                                                                                                                                                                      | ￦83490                    |
+|                                     | 기타 구비해둔 부자재                                              | 키캡, 스위치, 필라멘트 재료값, 아크릴 키보드덮개, 팜레스트, 키보드연결용 c타입 케이블, 기타 사포 및 납 등등                                                                                                                                                        | 대략 ￦7~80000               |
