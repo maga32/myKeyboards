@@ -70,7 +70,7 @@ ble(저전력 블루투스)를 지원하는 zmk를 이용하여 만들었습니�
 [바로가기](https://github.com/maga32/GripKey-config)
 
 ## 6. 갤러리
-[바로가기](./images)
+[바로가기](./images_orig)
 
 
 ---
